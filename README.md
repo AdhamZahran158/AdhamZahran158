@@ -4,7 +4,7 @@
 <h3 align="center">Computer & Systems Engineering Student | .NET Developer | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=.NET+Developer;Building+Real-world+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+SQL+Server;Backend+Development;DevOps+%7C+Docker+%7C+Kubernetes;Problem+Solver+%7C+Continuous+Learner" />
 </p>
 
 ---
@@ -23,17 +23,27 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/adham-zahran" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+
+<a href="mailto:adhamzahranil123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/adham.zahran.948" target="_blank">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+<a href="mailto:adham-alaa-zahran@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1qoPITcSXBPZIgAefoLbmcSi-HEVD1Eaq/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/My%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://www.linkedin.com/in/adham-zahran">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://www.facebook.com/adham.zahran.948">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1qoPITcSXBPZIgAefoLbmcSi-HEVD1Eaq/view?usp=drive_link">
+<img src="https://img.shields.io/badge/My%20CV-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---
