@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Adham Zahran</h1>
+<h1 align="center"> I'm Adham Zahran</h1>
 <h3 align="center">Computer & Systems Engineering Student | .NET Developer | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Passionate+about+.NET+Development;Building+Real-world+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=.NET+Developer;Building+Real-world+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -66,17 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdhamZahran158E&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamZahran158&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
